@@ -8,6 +8,7 @@ To get started, create a new *SAML 2.0 app* in your Okta dashboard by navigating
 - *Sign-in URL:* https://auth.getport.io/login/callback?connection=your-connection-name  
 - *Entity ID (Audience URI):* urn:auth0:port-prod:your-connection-name  
 -  we will provide you with your *connection name*
+
 Then map the following attributes:  
 - email → user.email  
 - given_name → user.firstName  
