@@ -1,4 +1,4 @@
-Based on the Kubernetes and Jira JSON examples shared, i have written the appropriate JQ filters to extract the data.
+based on the Kubernetes and Jira JSON examples shared, i have written the appropriate JQ filters to extract the data.
 
 1. **Current Replica Count**
 
